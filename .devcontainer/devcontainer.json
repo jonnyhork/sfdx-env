@@ -12,5 +12,5 @@
     "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
     "workbench.colorTheme": "Codey Midnight"
   },
-  "postCreateCommand": "./installExtension.sh"
+  "postCreateCommand": "./.devcontainer/installExtension.sh"
 }
