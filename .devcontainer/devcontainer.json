@@ -6,11 +6,11 @@
     "redhat.vscode-xml",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "salesforce.codey-midnight"
+    "salesforce.codey-midnight",
+    "./.devcontainer/salesforce.code-builder-vscode-0.0.1"
   ],
   "settings": {
     "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
     "workbench.colorTheme": "Codey Midnight"
-  },
-  "postCreateCommand": "./.devcontainer/installExtension.sh"
+  }
 }
