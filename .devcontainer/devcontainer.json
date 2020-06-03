@@ -14,6 +14,6 @@
     "workbench.colorTheme": "Codey Midnight"
   },
   "files.exclude": {
-    "**.vsix": true
+    "**/.vsix": true
   }
 }
