@@ -14,6 +14,9 @@
     "workbench.colorTheme": "Codey Midnight",
     "files.exclude": {
       "**/*.vsix": true
+    },
+    "codeBuilder": {
+      "showWelcomePage": true
     }
   }
 }
